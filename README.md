@@ -11,7 +11,7 @@ A modern web application for detecting deepfakes using a CNN-based model and a b
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/danithad/deepfake_detection.git
    ```
 
 2. **Backend Setup**
